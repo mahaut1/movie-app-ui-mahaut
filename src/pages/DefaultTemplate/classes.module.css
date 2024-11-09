@@ -4,6 +4,7 @@
     flex-direction: column;
     max-width: 1200px;
     margin: auto;
+    
     & > header {
     display: flex;
     padding: 8px 16px;

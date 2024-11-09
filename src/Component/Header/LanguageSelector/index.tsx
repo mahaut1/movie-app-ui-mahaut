@@ -18,6 +18,8 @@ export default function LanguageSelector() {
       >
         <MenuItem value="en">English</MenuItem>
         <MenuItem value="fr">Français</MenuItem>
+        <MenuItem value="de">Deutsch</MenuItem>
+        <MenuItem value="es">español</MenuItem>
       </Select>
     </Box>
   );
